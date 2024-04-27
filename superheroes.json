@@ -1,0 +1,213 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ultra Cucaracha",
+      "email_gracioso": "ultra_cucaracha@bughero.com",
+      "website": "http://www.ultracucaracha.org",
+      "habilidad_absurda": "Capacidad para sobrevivir a cualquier desastre nuclear"
+    },
+    {
+      "id": 2,
+      "nombre": "El Búmeran Volador",
+      "email_gracioso": "flying_boomerang@boomerhero.com",
+      "website": "http://www.bumeranvolador.net",
+      "habilidad_absurda": "Poder para convertir cualquier objeto en un búmeran"
+    },
+    {
+      "id": 3,
+      "nombre": "Sirena del Desierto",
+      "email_gracioso": "desert_mermaid@sandhero.com",
+      "website": "http://www.sirenadeldesierto.org",
+      "habilidad_absurda": "Control absoluto sobre las tormentas de arena"
+    },
+    {
+      "id": 4,
+      "nombre": "Mister Risas",
+      "email_gracioso": "mr_laughter@funnyhero.com",
+      "website": "http://www.misterrisas.net",
+      "habilidad_absurda": "Hace que todos a su alrededor se rían sin parar, incluso en situaciones serias"
+    },
+    {
+      "id": 5,
+      "nombre": "Doctor Plátano",
+      "email_gracioso": "dr_banana@fruitdoctor.com",
+      "website": "http://www.doctorplatano.org",
+      "habilidad_absurda": "Puede convertir cualquier objeto en un plátano"
+    },
+    {
+      "id": 6,
+      "nombre": "El Agujero Negro",
+      "email_gracioso": "black_hole@cosmichero.com",
+      "website": "http://www.elagujeronegro.net",
+      "habilidad_absurda": "Atracción gravitacional inversa, todo se aleja de él"
+    },
+    {
+      "id": 7,
+      "nombre": "Super Soplón",
+      "email_gracioso": "super_snitch@gossiphero.com",
+      "website": "http://www.supersoplon.org",
+      "habilidad_absurda": "Puede escuchar conversaciones de cualquier distancia"
+    },
+    {
+      "id": 8,
+      "nombre": "El Malabarista Cósmico",
+      "email_gracioso": "cosmic_juggler@universehero.com",
+      "website": "http://www.malabaristacosmico.net",
+      "habilidad_absurda": "Equilibra los planetas como si fueran pelotas de malabares"
+    },
+    {
+      "id": 9,
+      "nombre": "Invisi-Gordo",
+      "email_gracioso": "invisible_fat@invisiblehero.com",
+      "website": "http://www.invisigordo.org",
+      "habilidad_absurda": "Puede volverse invisible, pero solo cuando está comiendo"
+    },
+    {
+      "id": 10,
+      "nombre": "Señor Gomoso",
+      "email_gracioso": "mr_gummy@chewyhero.com",
+      "website": "http://www.senorgomoso.net",
+      "habilidad_absurda": "Puede convertir cualquier cosa en goma de mascar"
+    },
+    {
+      "id": 11,
+      "nombre": "El Abrazo Magnético",
+      "email_gracioso": "magnetic_hug@embracehero.com",
+      "website": "http://www.abrazomagnetico.org",
+      "habilidad_absurda": "Atrae a todas las personas y objetos hacia él con un abrazo"
+    },
+    {
+      "id": 12,
+      "nombre": "Capitán Cebolla",
+      "email_gracioso": "captain_onion@tearhero.com",
+      "website": "http://www.capitancebolla.net",
+      "habilidad_absurda": "Puede hacer llorar a cualquier villano con su aliento a cebolla"
+    },
+    {
+      "id": 13,
+      "nombre": "La Risa Explosiva",
+      "email_gracioso": "explosive_laugh@laughinghero.com",
+      "website": "http://www.larisaexplosiva.org",
+      "habilidad_absurda": "Hace que las personas exploten de risa literalmente"
+    },
+    {
+      "id": 14,
+      "nombre": "El Deslizador de Caramelo",
+      "email_gracioso": "candy_slider@sweethero.com",
+      "website": "http://www.deslizadordecaramelo.net",
+      "habilidad_absurda": "Desliza sobre el caramelo, pero solo sobre el caramelo"
+    },
+    {
+      "id": 15,
+      "nombre": "La Mosca Parlante",
+      "email_gracioso": "talking_fly@buzzhero.com",
+      "website": "http://www.lamoscaparlante.org",
+      "habilidad_absurda": "Puede comunicarse telepáticamente con las moscas"
+    },
+    {
+      "id": 16,
+      "nombre": "El Gigante Minúsculo",
+      "email_gracioso": "tiny_giant@giantmicrohero.com",
+      "website": "http://www.elgiganteminusculo.net",
+      "habilidad_absurda": "Tiene fuerza gigante, pero solo cuando es del tamaño de una hormiga"
+    },
+    {
+      "id": 17,
+      "nombre": "El Estornudo Sónico",
+      "email_gracioso": "sonic_sneeze@loudhero.com",
+      "website": "http://www.estornudosonico.org",
+      "habilidad_absurda": "Un estornudo tan fuerte que puede derribar edificios"
+    },
+    {
+      "id": 18,
+      "nombre": "Señor Pegajoso",
+      "email_gracioso": "mr_sticky@stickyhero.com",
+      "website": "http://www.senorpegajoso.net",
+      "habilidad_absurda": "Puede adherirse a cualquier superficie, incluso el aire"
+    },
+    {
+      "id": 19,
+      "nombre": "El Vidente de la Lotería",
+      "email_gracioso": "lottery_seer@luckhero.com",
+      "website": "http://www.elvidenteloteria.net",
+      "habilidad_absurda": "Puede predecir los números ganadores de la lotería, pero solo después del sorteo"
+    },
+    {
+      "id": 20,
+      "nombre": "Capitán Sonrisa Forzada",
+      "email_gracioso": "captain_fake_smile@smileyhero.com",
+      "website": "http://www.capitansonrisaforzada.org",
+      "habilidad_absurda": "Puede hacer que cualquiera sonría, incluso si no quiere"
+    },
+    {
+      "id": 21,
+      "nombre": "El Chillido Ultrasónico",
+      "email_gracioso": "ultrasonic_squeal@noisyhero.com",
+      "website": "http://www.chillidoultrasonico.net",
+      "habilidad_absurda": "Un chillido tan fuerte que puede romper el vidrio a kilómetros de distancia"
+    },
+    {
+      "id": 22,
+      "nombre": "El Fanático del Filete",
+      "email_gracioso": "steak_fanatic@meatloverhero.com",
+      "website": "http://www.fanaticofilete.org",
+      "habilidad_absurda": "Atrae a todos los perros del vecindario con su aroma a filete"
+    },
+    {
+      "id": 23,
+      "nombre": "Señor Espejismo",
+      "email_gracioso": "mr_mirage@illusionhero.com",
+      "website": "http://www.senorespejismo.net",
+      "habilidad_absurda": "Crea ilusiones tan reales que incluso él mismo se confunde"
+    },
+    {
+      "id": 24,
+      "nombre": "El Aplauso Sónico",
+      "email_gracioso": "sonic_applause@applaudhero.com",
+      "website": "http://www.aplausosonico.org",
+      "habilidad_absurda": "Un aplauso tan fuerte que puede desviar asteroides"
+    },
+    {
+      "id": 25,
+      "nombre": "Mister Mímico",
+      "email_gracioso": "mr_mimic@mimichero.com",
+      "website": "http://www.mistermimico.net",
+      "habilidad_absurda": "Puede imitar cualquier sonido, incluso los que no existen"
+    },
+    {
+      "id": 26,
+      "nombre": "El Ladrón de Calcetines",
+      "email_gracioso": "sock_thief@sockhero.com",
+      "website": "http://www.ladrondecalcetines.org",
+      "habilidad_absurda": "Roba los calcetines de sus enemigos, dejándolos descalzos y confundidos"
+    },
+    {
+      "id": 27,
+      "nombre": "La Llave Maestra",
+      "email_gracioso": "master_key@lockhero.com",
+      "website": "http://www.lallavemaestra.org",
+      "habilidad_absurda": "Puede abrir cualquier cerradura, pero solo con una llave de juguete"
+    },
+    {
+      "id": 28,
+      "nombre": "El Rugido Felino",
+      "email_gracioso": "feline_roar@cat-hero.com",
+      "website": "http://www.rugidofelino.net",
+      "habilidad_absurda": "Un rugido tan fuerte que puede atraer a todos los gatos de la ciudad"
+    },
+    {
+      "id": 29,
+      "nombre": "La Burbuja Explosiva",
+      "email_gracioso": "explosive_bubble@bubblehero.com",
+      "website": "http://www.laburbujaexplosiva.org",
+      "habilidad_absurda": "Crea burbujas que explotan con confeti y música de fiesta"
+    },
+    {
+      "id": 30,
+      "nombre": "El Desafinador Sónico",
+      "email_gracioso": "sonic_off_key@musichero.com",
+      "website": "http://www.desafinadorsonico.net",
+      "habilidad_absurda": "Canta tan mal que puede romper cristales"
+    }
+  ]
+  

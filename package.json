@@ -1,0 +1,11 @@
+{
+  "name": "proyectogithub1",
+  "version": "1.0.0",
+  "description": "Proyecto de pagina 3k2 ginotombesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GINARDO",
+  "license": "ISC"
+}
