@@ -15,8 +15,8 @@ const getUsers = async () => {
 
 
 // este metodo es para que sea mas simple
-const getFilterUser = async (email) => {
-    const response = await fetch(`superheroes.json=${email}`)
+const getFilterUser = async (email_gracioso) => {
+    const response = await fetch(`./superheroes.json?email_gracioso=${email_gracioso}`)
     const data = await response.json()
     return data;
 }
@@ -29,6 +29,7 @@ function cargarElementos(elementos) {
         <td>${elemento.nombre}</td>
         <td>${elemento.email_gracioso}</td>
         <td>${elemento.website}</td>
+        <td>${elemento.habilidad_absurda}</td>
         `;
         const nuevaFila = tabla.insertRow(tabla.rows.length);
         nuevaFila.innerHTML = row
@@ -40,23 +41,23 @@ function cargarElementos(elementos) {
 
 const cargarFiltrados = (texto) => {
     const filtrados = usuarios
-        .filter((s) => s.email === texto);
+        .filter((s) => s.email_gracioso === texto);
     cargarElementos(filtrados)
 }
 
+
+const limpiarTabla = () => {
+    // https://www.w3schools.com/jsreF/met_table_deleterow.asp#:~:text=The%20deleteRow()%20method%20removes,and%20insert%20a%20new%20row.
+    const tabla = document.getElementById('datos');
+    console.log('limpiarTabla', tabla)
+    while (tabla.rows.length > 1) {
+        tabla.deleteRow(tabla.rows.length -1)
+    }
+ }
 const cargarFiltradosMasSimple = async (texto) => {
     limpiarTabla();
     const filtrados = await getFilterUser(texto);
     cargarElementos(filtrados)
-}
-
-const limpiarTabla = () => {
-   // https://www.w3schools.com/jsreF/met_table_deleterow.asp#:~:text=The%20deleteRow()%20method%20removes,and%20insert%20a%20new%20row.
-   const tabla = document.getElementById('datos');
-   console.log('limpiarTabla', tabla)
-   while (tabla.rows.length > 1) {
-       tabla.deleteRow(tabla.rows.length -1)
-   }
 }
 
 
